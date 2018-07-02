@@ -18,3 +18,9 @@ I noted that a lot more stations have to be done if the climate change is 1 degr
 
 I am requesting volunteers to complete a significant random sample of data, then produce some combination analysis to confirm or deny any global effect, from this data. Request raw data and complete similar analysis to check monthly data is correct by recalculating samples.
 
+
+### Development Procedure :
+
+Create a fork on your repository
+Request to push to development branch
+Admin review change not spam, pull to Master.
