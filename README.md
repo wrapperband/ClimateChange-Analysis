@@ -18,6 +18,16 @@ I noted that a lot more stations have to be done if the climate change is 1 degr
 
 I am requesting volunteers to complete a significant random sample of data, then produce some combination analysis to confirm or deny any global effect, from this data. Request raw data and complete similar analysis to check monthly data is correct by recalculating samples.  
 
+It has been seen that this process could be easily automated and be checkable / auditable by anyone.
+
+
+### Observations.
+
+Continue to improve sampple data and procedure how to create charts using template spreadsheet and explain calculated fields.
+
+Some temperatures vary naturally greater than calculated increase. There should be a max and minimum temperatures not just the average per month, how do we know daily data isn't currupted by 99 degress - no reading default values?
+
+
 
 ![010010-Temperature](https://raw.githubusercontent.com/wrapperband/ClimateChange-Analysis/master/Charts/010010.a.Temp.png)  
 
@@ -25,6 +35,8 @@ I am requesting volunteers to complete a significant random sample of data, then
 
 ![010010-Temperature&Deviation](https://raw.githubusercontent.com/wrapperband/ClimateChange-Analysis/master/Charts/010010.png)  
 
+
+![010010-Temperature&Deviation](https://raw.githubusercontent.com/wrapperband/ClimateChange-Analysis/master/Charts/010010.b.5yrAvTemp.png)  
 
 ### Development Procedure :  
 
